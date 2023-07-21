@@ -12,7 +12,7 @@ export class Loader extends Component {
           height="80"
           width="80"
           radius="48"
-          color="#3f51b5"
+          color="#3f51b6"
           ariaLabel="watch-loading"
           wrapperStyle={{}}
           wrapperClassName=""
