@@ -23,5 +23,5 @@ export class Loader extends Component {
   }
 }
 Loader.propTypes = {
-  isLoading: PropTypes.bool.isRequired,
+  isLoading: PropTypes.bool,
 };
