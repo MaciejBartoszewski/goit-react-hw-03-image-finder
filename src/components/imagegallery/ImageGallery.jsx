@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import styles from '../styles/styles.css';
+import styles from '../styles/styles.module.css';
 
 export class ImageGallery extends Component {
   render() {

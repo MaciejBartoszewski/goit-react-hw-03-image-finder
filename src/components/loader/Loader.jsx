@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import { Watch } from 'react-loader-spinner';
-import styles from '../styles/styles.css';
+import styles from '../styles/styles.module.css';
 import PropTypes from 'prop-types';
 
 export class Loader extends Component {
